@@ -1,0 +1,14 @@
+{
+  "name": "vm-checkout-backend",
+  "version": "1.0.0",
+  "description": "Backend para checkout com API VM C2B Payment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1"
+  },
+  "type": "module"
+}
